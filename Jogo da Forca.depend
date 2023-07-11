@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1675701006 source:c:\users\wisley victor\desktop\codigos codeblocks\jogo da forca\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
